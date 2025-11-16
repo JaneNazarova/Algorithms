@@ -1,0 +1,3 @@
+C:/2курс/алгоритмы/SET3/Новая папка/cmake-build-debug/CMakeFiles/A1i______.dir
+C:/2курс/алгоритмы/SET3/Новая папка/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/2курс/алгоритмы/SET3/Новая папка/cmake-build-debug/CMakeFiles/rebuild_cache.dir
